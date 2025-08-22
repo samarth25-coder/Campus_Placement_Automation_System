@@ -1,7 +1,7 @@
 
 
 
-# PraveshCampusPlacement_IITP
+# CampusPlacement_IITP
 
 🚀 A lightweight **Campus Placement Automation System** built with the **MERN stack** + MySQL.  
 This project was developed as a small full-stack application to automate the student placement process in colleges.  
